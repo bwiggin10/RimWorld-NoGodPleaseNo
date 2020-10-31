@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>No God! Please No!</name>
+	<author>Ben</author>
+	<supportedVersions>
+		<li>1.1</li>
+		<li>1.2</li>
+	</supportedVersions>
+	<packageId>ben.nogodpleaseno</packageId>
+	<description>
+Changes your incident notification to Michael Scott yelling NO GOD! PLEASE NO!!
+	</description>
+</ModMetaData>
